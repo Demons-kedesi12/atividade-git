@@ -14,6 +14,8 @@
 
 <ul>
   <li><b>Maria Eduarda Palma</b> — README e função <code>inicio()</code></li></code></li>
+  <li><b>Mariana Soriani Fernandes</b> — funções <code>soma()</code> e <code>divisao()</code></li>
+
 </ul>
 
 <hr>
@@ -56,6 +58,12 @@ Calculadora
 <ul>
   <li>Criação do README</li>
   <li>Desenvolvimento da função <code>inicio()</code></li>
+</ul>
+
+<h3>Mariana Soriani Fernandes</h3>
+<ul>
+  <li>Desenvolvimento da função <code>soma()</code></li>
+  <li>Desenvolvimento da função <code>divisao()</code></li>
 </ul>
 
 <hr>

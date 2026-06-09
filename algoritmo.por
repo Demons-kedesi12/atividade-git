@@ -43,7 +43,20 @@ programa
 			escreva("\nDeseja continuar?\n0 - Sair\n1 - Continuar\n")
 			leia(encerrar)
 			
-		}enquanto(encerrar != 0)
-		
+		}enquanto(encerrar != 0)		
+	}
+
+	//funcao soma-Mariana Soriani 
+	funcao real soma(real a, real b){
+		real s
+		s = a + b
+		retorne s
+	}
+
+	//funcao de divisao - mariana soriani
+	funcao real divisao(real a, real b){
+		real di
+		di = a * b
+		retorne di
 	}
 }
