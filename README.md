@@ -15,6 +15,7 @@
 <ul>
   <li><b>Maria Eduarda Palma</b> — README e função <code>inicio()</code></li></code></li>
   <li><b>Mariana Soriani Fernandes</b> — funções <code>soma()</code> e <code>divisao()</code></li>
+   <li><b>Guilherme Mota e Silva</b> — funções <code>subtracao()</code> e <code>multiplicacao()</code></li>
 
 </ul>
 
@@ -66,6 +67,11 @@ Calculadora
   <li>Desenvolvimento da função <code>divisao()</code></li>
 </ul>
 
+<h3>Guilherme Mota e Silva</h3>
+<ul>
+  <li>Desenvolvimento da função <code>subtracao()</code></li>
+  <li>Desenvolvimento da função <code>multiplicacao()</code></li>
+</ul>
 <hr>
 
 <p align="center">

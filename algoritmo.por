@@ -59,4 +59,17 @@ programa
 		di = a * b
 		retorne di
 	}
+	// funcao subtrair - Guilherme Mota
+		funcao real subtrair(real a, real b){
+		real sub
+		sub = a - b
+		retorne sub
+	}
+	//funcao multiplicar - Guilherme Mota
+	funcao real multiplicar(real a, real b){
+		real m
+		m = a * b
+		retorne m
+	}
+
 }
